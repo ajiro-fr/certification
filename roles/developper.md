@@ -15,3 +15,4 @@
 - Collective ownership
 - Cynefyn
 - Metrologie ()
+- Maîtriser plusieurs langages (combien ?)
