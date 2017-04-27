@@ -11,3 +11,8 @@ Pour le moment, les rôles sont :
 - developpeur
 - coach
 - manager
+
+
+# Réferences
+
+- [Référentiel des concepts, pratiques et compétences agiles de l'Institut Agile](http://institut-agile.fr/)
