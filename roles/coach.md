@@ -1,4 +1,4 @@
 # Agile coach
 
-- SF
+- Solution Focus
 -
