@@ -6,10 +6,10 @@ Savoir être et savoir faire ou pratiques et principes ?
 
 # En vrac
 
-## Collaboration biz-dev et dev-ops autour des besoins
+## Gestion des besoins
 
 | Principes                              | Pratiques |
-|--
+|--                                      |--         |
 | collecte des besoins                   | atelier de travail avec biz-dev-ops |
 | affinage et priorisation de la liste   | affinage du backlog avec po / biz /dev  / ops |         
 | pas de surprise en production          | Métrologie |
