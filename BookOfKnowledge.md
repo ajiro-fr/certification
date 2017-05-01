@@ -16,68 +16,39 @@ Savoir être et savoir faire ou pratiques et principes ?
 
 ## Géstion de la valeur
 
-### Principes
-
-* une équipe concentré sur le minimum de taches
-* avec une bonne compréhension du pour quoi et du pour qui
-
-* partage de la valeur de chaque petit bout de fonctionnalité
-
-### Pratiques
-
-* Existence du backlog
-* découpé en histoire utilisateur
-* limiter le travail en cours
+| Principes                              | Pratiques |
+|--
+| une équipe concentré sur le minimum de taches            | Existence du backlog |
+| avec une bonne compréhension du pour quoi et du pour qui | découpé en histoire utilisateur |
+| partage de la valeur de chaque petit bout de fonctionnalité | limiter le travail en cours |
 
 ## Production du code
 
-### Principes
 
-* un environnement technique partagé
-* intégration continue
-* une gestion de la configuration
-* tests automatisés
+| Principes                              | Pratiques |
+|--
+| Un environnement technique partagé     | Standar de code, standar d'outils |
+| intégration continue                   | automatisation des dépendances, automatisation des constructions, audit de code automatique |
+| une gestion de la configuration        | gestion de version
+| tests automatisés                      |
 
-### Pratiques
-
-* Standar de code
-* gestion de version
-* automatisation des dépendances
-* automatisation des constructions
-* audit de code automatique
 
 ## Amélioration continue
 
-### Principes
-
-* cadre et temps consacré à l'amélioration
-
-### Pratiques
-
-* retrospectives
-* stop the line
-* kata
+| Principes                              | Pratiques |
+|--
+| cadre et temps consacré à l'amélioration | retrospectives, stop the line, kata |
 
 ## Équipe
 
-### Principes
-
-* Équipe autonome
-* Équipe pluridiciplinaire
-* Équipe qui capable de coconstruire l'architecture
-
-### Pratiques
-
-* management visuel (tableau kanban)
-* tableau blanc
-* daily meeting
+| Principes                              | Pratiques |
+|--
+| Équipe autonome                        | management visuel (tableau kanban) |
+| Équipe pluridiciplinaire               |
+| Équipe qui capable de coconstruire l'architecture | tableau blanc, daily meeting |
 
 ## Leadership
 
-### Principes
-
-* auto-organisé
-
-### Pratiques
-
-*
+| Principes                              | Pratiques |
+|--
+| auto-organisé
