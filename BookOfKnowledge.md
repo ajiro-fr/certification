@@ -63,6 +63,9 @@ Savoir être et savoir faire ou pratiques et principes ?
 
 ## Leadership
 
-| Principes                              | Pratiques |
-|--                                      |--         |
-| autonome / auto-organisé               | management visuel (tableau kanban) |
+| Principes                                                 | Pratiques |
+|--                                                         |--         |
+| autonome / auto-organisé                                  | management visuel (tableau kanban) |
+| l'équipe corrige ses erreurs                              | Droit à l'erreur sans représeail   |
+| chaque membre de l'équipe développe son propre leadership | host leadership |
+| Autopoiesis                                               |
