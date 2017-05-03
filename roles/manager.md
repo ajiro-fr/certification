@@ -1,7 +1,8 @@
 # Manager
 
+- Solution focus
 - Host leadership
-- Convsersation constructive
+- Conversation constructive
 - Starts with why
 - Decentralised decision
 - Space for sharing

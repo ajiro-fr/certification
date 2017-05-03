@@ -1,7 +1,7 @@
 # Common
 
-- Backlog
-- Cérémonies
+- Backlog : découpage, priorité
+- Moment de synchro : équipe, entres équipes, etc.
 - Rétrospectives / PDCA
-- Cynefyn
-- Slicing
+- "Cynefyn"
+- Découpage
