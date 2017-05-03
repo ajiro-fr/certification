@@ -1,40 +1,59 @@
 # Présentation
 
+Vous trouverez dans ce document l'ensemble des éléments observable chez un membre d'une équipe agile.
+
 # Principes généraux
 
-Savoir être et savoir faire ou pratiques et principes ?
+Les éléments que l'on peut observer dans une équipe agile ont été regroupé par grand principe. Les voici :
+
+-
+
+# Cartographie des observables
+
+Quand nous parlons d'existence d'atelier, c'est au minimum une fois par mois.
+
+
+| Observables                                  | Product Owner | Manager | Déveoppeur | 
+|--                                            |--             |--       |--          |
+| Le manifeste agile est connue et partagé |
+| Il existe des ateliers de collecte des besoins avec biz-dev-ops |
+| Il existe des ateliers de priorisation du backlog |
+| Il existe un backlog d'histoires utilisateurs priorisés |
+| Les histoires utilisateurs sont regroupés en MVE |
+| Les histoires utilisateurs décrive le quoi le pour quoi et le pour qui |
+| Métrologie |
+| Il existe une projection de la fin du travail |
+| Le besoin est détaillé sous forme d'exemple |
+| Les exemples sont executables |
+| Les exemples sont coconstruit avec biz-dev-qa |
+| Les fonctions sont livrés au fils du temps en production et activés par MVE |
+| Le PO annime la communauté des parties prenants |
+| Outils de prise de décisions |
+| L'équipe réduit systématiquement le travail en cours à son strict minimum |
+| Le business modèle et partagé, chacun est capable de prendre une décision et d'en informer les autres |
+| La livraison est un non événement |
+| Pratiques de kata au moins une fois par semaine |
+| Lit sur son sujet (tech, po, etc.) au moins une fois par semaine |
+| Le standar de code a été défini en équipe et est régulièrement mis à jour |
+| Les outils sont standardisés et sont régulièrement challengés par l'équipe |
+| Les dépendances sont gérés automatiquement |
+| Les constructions sont automatiques |
+| L'audit du code est automatique |
+| Toutes les modifications de code sont historisé et versionnés |
+| Les développements des membres de l'équipe sont très régulièrement confrontés les unes aux autres |
+| Il existe une véritable stratégie de teste : TU, TA, TI, TF |
+| La quantité de TU est très supérieur à la quantité de TI |
 
 # En vrac
 
-## Gestion des besoins
-
-| Principes                                  | Pratiques |
-|--                                          |--         |
-| collecte des besoins                       | atelier de travail avec biz-dev-ops |
-| affinage et priorisation de la liste       | affinage du backlog avec po / biz /dev  / ops |         
-| pas de surprise en production              | Métrologie |
-| rythme prévisible                          | Métrologie, burndown |
-| Expression du besoins sous forme d'exemple | BDD avec dev / qa / biz |
-| Délivrer toujours plus vite en continue    | feature flag |
 
 ## Géstion de la valeur
 
-| Principes                                                   | Pratiques |
-|--                                                           |--         |
-| une équipe concentré sur le minimum de taches               | Existence du backlog |
-| avec une bonne compréhension du pour quoi et du pour qui    | Découpage en histoire utilisateur |
 | besoins utilisateur vs développement produit                | Business Value Burn up, MMF, Kata Slicing |
 | partage de la valeur de chaque petit bout de fonctionnalité | limiter le travail en cours |
-| chacun est capable de prioriser et d'informer de la décision| business modèle paratagé entre biz-dev-ops
-| La livraison de valeur en continue est une seconde nature   | 
 
 ## Production du code
 
-| Principes                                          | Pratiques |
-|--                                                  |--         |
-| Un environnement technique partagé                 | Standar de code, standar d'outils |
-| intégration continue                               | automatisation des dépendances, automatisation des constructions, audit de code automatique |
-| une gestion de la configuration                    | gestion de version |
 | tests automatisés                                  | XUnit |
 | Réduire le niveau d'insertitude des développements (chacque sprint est prévésible) | TDD, Stratégie de test, Clean code, Legacy refactoring, katas |
 | L'infrastructure est partagé et géré comme du code | puppet, cloud, chef, ansible
